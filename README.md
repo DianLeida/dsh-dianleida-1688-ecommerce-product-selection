@@ -24,3 +24,7 @@ Shop Radar MCP集成了五项关键产品选择功能：
 ## ⚠️ 注意事项
 - 本工具仅用于选品研究，遵守平台规则
 - 接口额度、频率限制请自行留意
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/dianleida/dsh-dianleida-e-commerce-product-selection)](https://m8ven.ai/mcp/dianleida/dsh-dianleida-e-commerce-product-selection?s=readme)
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/dianleida-dsh-dianleida-e-commerce-product-selection-vnl3nn?v=b4a087dc0b222e45a38d991c3d55b125)](https://m8ven.ai/mcp/dianleida-dsh-dianleida-e-commerce-product-selection-vnl3nn?s=readme)
