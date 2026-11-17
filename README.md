@@ -1,4 +1,4 @@
-# dsh-DianLeida-电子商务-产品-选择
+# dsh-dianleida-ecommerce-product-selection
 店雷达 DianLeida 1688电商选品 Skill/MCP
 
 ## ✨ 功能介绍
