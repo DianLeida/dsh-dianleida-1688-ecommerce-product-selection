@@ -1,0 +1,10 @@
+{
+  "name": "dsh-dianleida-ecommerce-product-selection",
+  "version": "0.1.0",
+  "description": "店雷达跨境电商选品技能，支持选品数据分析",
+  "main": "index.js",
+  "dsh": {
+    "bundle": true
+  },
+  "license": "MIT"
+}
