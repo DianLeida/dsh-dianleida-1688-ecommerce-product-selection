@@ -1,5 +1,5 @@
 # DianLeida 店雷达 1688电商选品 Skill / MCP
-> 仓库标识：dsh-DianLeida-E-commerce-product-selection
+> 仓库标识：dsh-dianleida-ecommerce-product-selection
 > 版本：v1.1.0
 > 类型：MCP + Skill 混合插件
 > 适配：DSH 平台
