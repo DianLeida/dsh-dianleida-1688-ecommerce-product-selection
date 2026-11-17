@@ -6,5 +6,6 @@
   "dsh": {
     "bundle": true
   },
-  "license": "MIT"
+  "license": "MIT",
+  "spdx": "MIT"
 }
